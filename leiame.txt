@@ -1,0 +1,4 @@
+Para iniciar um projeto nodejs = npm init 
+
+Para adicionar o typescript = tsc --init
+

@@ -2,3 +2,12 @@ Para iniciar um projeto nodejs = npm init
 
 Para adicionar o typescript = tsc --init
 
+npm install --save express
+
+npm install --save-dev @types/express
+
+npm run build
+
+node ./dist/index.js
+
+npm install --save-dev ts-node-dev

@@ -11,3 +11,5 @@ npm run build
 node ./dist/index.js
 
 npm install --save-dev ts-node-dev
+
+npm install --save http-status-codes
